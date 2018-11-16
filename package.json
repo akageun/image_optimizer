@@ -1,0 +1,17 @@
+{
+  "name": "img_optimizer",
+  "version": "0.0.1",
+  "description": "Image Optimizer",
+  "main": "index.js",
+  "dependencies": {
+    "imagemagick": "^0.1.3",
+    "minimatch": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akageun",
+  "license": "MIT"
+}
