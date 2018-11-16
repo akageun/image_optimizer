@@ -5,7 +5,7 @@ const p = require('path');
 
 const config = {
     convertMinSize: 1000000,
-    targetFolder: 'E:\\pub-out-svn\\ui_20161230\\trunk\\112241',
+    targetFolder: '',
     includeFileEx: ["*.PNG", "*.png", "*.jpg"]
 
 };
